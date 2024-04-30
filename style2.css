@@ -5,7 +5,7 @@ body {
 }
 
 .container {
-    background: url(images/b.jpg);
+    background: url(b.jpg);
     height: 775px;
     background-size: cover;
 
@@ -79,7 +79,7 @@ ul.navbar li a {
 .img-1 {
     width: 100px;
     height: 130px;
-    background: url(../images/valorant.jpg);
+    background: url(valorant.jpg);
     background-size: cover;
     background-position: center;
     margin-left: 250px;
@@ -89,7 +89,7 @@ ul.navbar li a {
 .img-2 {
     width: 100px;
     height: 130px;
-    background: url(images/Anpar.jpg);
+    background: url(Anpar.jpg);
     background-size: cover;
     background-position: center;
     margin-left: 20px;
@@ -101,7 +101,7 @@ ul.navbar li a {
 .img-3 {
     width: 100px;
     height: 130px;
-    background: url(images/battlefield.jpg);
+    background: url(battlefield.jpg);
     background-size: cover;
     background-position: center;
     margin-left: 20px;
@@ -111,7 +111,7 @@ ul.navbar li a {
 .img-4 {
     width: 100px;
     height: 130px;
-    background: url(../images/warxone.jpg);
+    background: url(warxone.jpg);
     background-size: cover;
     background-position: center;
     margin-left: 20px;
@@ -121,7 +121,7 @@ ul.navbar li a {
 .img-5 {
     width: 100px;
     height: 130px;
-    background: url(images/craft.jpeg);
+    background: url(craft.jpeg);
     background-size: cover;
     background-position: center;
     margin-left: 20px;
@@ -131,7 +131,7 @@ ul.navbar li a {
 .img-6 {
     width: 100px;
     height: 130px;
-    background: url(images/fortnite.jpg);
+    background: url(fortnite.jpg);
     background-size: cover;
     background-position: center;
     margin-left: 20px;
@@ -141,7 +141,7 @@ ul.navbar li a {
 .img-7 {
     width: 100px;
     height: 130px;
-    background: url(images/pubg.jpeg);
+    background: url(pubg.jpeg);
     background-size: cover;
     background-position: center;
     margin-left: 20px;
@@ -151,7 +151,7 @@ ul.navbar li a {
 .img-8 {
     width: 100px;
     height: 130px;
-    background: url(images/coldwar.png);
+    background: url(coldwar.png);
     background-size: cover;
     background-position: center;
     margin-left: 20px;
@@ -174,7 +174,7 @@ ul.navbar li a {
 .gw-1 {
     width: 100px;
     height: 130px;
-    background: url(../images/pes22.webp);
+    background: url(pes22.webp);
     background-size: cover;
     background-position: center;
     margin-left: 250px;
@@ -184,7 +184,7 @@ ul.navbar li a {
 .gw-2 {
     width: 100px;
     height: 130px;
-    background: url(images/spider.png);
+    background: url(spider.png);
     background-size: cover;
     background-position: center;
     margin-left: 20px;
@@ -194,7 +194,7 @@ ul.navbar li a {
 .gw-3 {
     width: 100px;
     height: 130px;
-    background: url(images/forza4.jpg);
+    background: url(forza4.jpg);
     background-size: cover;
     background-position: center;
     margin-left: 20px;
@@ -204,7 +204,7 @@ ul.navbar li a {
 .gw-4 {
     width: 100px;
     height: 130px;
-    background: url(images/incrdible.png);
+    background: url(incrdible.png);
     background-size: cover;
     background-position: center;
     margin-left: 20px;
@@ -214,7 +214,7 @@ ul.navbar li a {
 .gw-5 {
     width: 100px;
     height: 130px;
-    background: url(images/asphalt8.jpg);
+    background: url(asphalt8.jpg);
     background-size: cover;
     background-position: center;
     margin-left: 20px;
@@ -229,7 +229,7 @@ ul.navbar li a {
 .gw-6 {
     width: 100px;
     height: 130px;
-    background: url(images/gta.jpg);
+    background: url(gta.jpg);
     background-size: cover;
     background-position: center;
     margin-left: 370px;
@@ -240,7 +240,7 @@ ul.navbar li a {
 .gw-7 {
     width: 100px;
     height: 130px;
-    background: url(../images/game.jpg);
+    background: url(game.jpg);
     background-size: cover;
     background-position: center;
     margin-left: 20px;
@@ -251,7 +251,7 @@ ul.navbar li a {
 .gw-8 {
     width: 100px;
     height: 130px;
-    background: url(images/rdr.jpeg);
+    background: url(rdr.jpeg);
     background-size: cover;
     background-position: center;
     margin-left: 20px;
@@ -263,7 +263,7 @@ ul.navbar li a {
 .gw-9 {
     width: 100px;
     height: 130px;
-    background: url(images/craft.jpeg);
+    background: url(craft.jpeg);
     background-size: cover;
     background-position: center;
     margin-left: 20px;
@@ -274,7 +274,7 @@ ul.navbar li a {
 .gw-10 {
     width: 100px;
     height: 130px;
-    background: url(images/nba.jpg);
+    background: url(nba.jpg);
     background-size: cover;
     background-position: center;
     margin-left: 20px;
