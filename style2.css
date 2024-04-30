@@ -1,0 +1,283 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background: url(../images/b.jpg);
+    height: 775px;
+    background-size: cover;
+
+}
+
+header {
+    width: 100%;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/*.logo{
+    width: 300px;
+    height: 100px;
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    color: white;
+    height: 100px;
+    font-size: 25px;
+    width: 200px;
+
+   
+}*/
+.logo {
+    width: 300px;
+    height: 100px;
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding: 1px;
+    line-height: 10px;
+    font-size: 25px;
+}
+
+ul.navbar {
+    display: flex;
+    list-style: none;
+}
+
+ul.navbar li {
+    width: 150px;
+    margin-left: 40px;
+}
+
+ul.navbar li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.container h1 {
+    width: 500px;
+    color: yellow;
+    font-size: x-large;
+    position: relative;
+    font-weight: 400;
+    margin-left: 250px;
+}
+
+.demo-img {
+    display: flex;
+    margin-right: 100px;
+}
+
+.img-1 {
+    width: 100px;
+    height: 130px;
+    background: url(../images/valorant.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: 250px;
+    border-radius: 10px;
+}
+
+.img-2 {
+    width: 100px;
+    height: 130px;
+    background: url(../images/Anpar.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: 20px;
+    border-radius: 10px;
+    background-position: 100;
+
+}
+
+.img-3 {
+    width: 100px;
+    height: 130px;
+    background: url(../images/battlefield.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.img-4 {
+    width: 100px;
+    height: 130px;
+    background: url(../images/warxone.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.img-5 {
+    width: 100px;
+    height: 130px;
+    background: url(../images/craft.jpeg);
+    background-size: cover;
+    background-position: center;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.img-6 {
+    width: 100px;
+    height: 130px;
+    background: url(../images/fortnite.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.img-7 {
+    width: 100px;
+    height: 130px;
+    background: url(../images/pubg.jpeg);
+    background-size: cover;
+    background-position: center;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.img-8 {
+    width: 100px;
+    height: 130px;
+    background: url(../images/coldwar.png);
+    background-size: cover;
+    background-position: center;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.img:hover {
+    transform: translateY(10px);
+}
+
+.game {
+    display: flex;
+    margin-right: 100px;
+}
+
+.gw:hover {
+    transform: translateY(10px);
+}
+
+.gw-1 {
+    width: 100px;
+    height: 130px;
+    background: url(../images/pes22.webp);
+    background-size: cover;
+    background-position: center;
+    margin-left: 250px;
+    border-radius: 10px;
+}
+
+.gw-2 {
+    width: 100px;
+    height: 130px;
+    background: url(../images/spider.png);
+    background-size: cover;
+    background-position: center;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.gw-3 {
+    width: 100px;
+    height: 130px;
+    background: url(../images/forza4.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.gw-4 {
+    width: 100px;
+    height: 130px;
+    background: url(../images/incrdible.png);
+    background-size: cover;
+    background-position: center;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.gw-5 {
+    width: 100px;
+    height: 130px;
+    background: url(../images/asphalt8.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.game1 {
+    display: flex;
+    margin-right: 100px;
+}
+
+.gw-6 {
+    width: 100px;
+    height: 130px;
+    background: url(../images/gta.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: 370px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+.gw-7 {
+    width: 100px;
+    height: 130px;
+    background: url(../images/game.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: 20px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+.gw-8 {
+    width: 100px;
+    height: 130px;
+    background: url(../images/rdr.jpeg);
+    background-size: cover;
+    background-position: center;
+    margin-left: 20px;
+    margin-top: 15px;
+    border-radius: 10px;
+
+}
+
+.gw-9 {
+    width: 100px;
+    height: 130px;
+    background: url(../images/craft.jpeg);
+    background-size: cover;
+    background-position: center;
+    margin-left: 20px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+.gw-10 {
+    width: 100px;
+    height: 130px;
+    background: url(../images/nba.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: 20px;
+    margin-top: 15px;
+    border-radius: 10px;
+}

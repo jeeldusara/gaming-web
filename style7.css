@@ -1,0 +1,67 @@
+body {
+    background: url(../images/b.jpg);
+}
+
+.container {
+    background-color: rgba(245, 245, 245, 0.244);
+    width: 500px;
+    height: 500px;
+    margin-left: 500px;
+    margin-top: 140px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.container h1 {
+    margin-bottom: 40px;
+    font-size: 4em;
+    font-weight: lighter;
+    margin-left: 120px;
+}
+
+input[type="text"],
+input[type="Name"],
+input[type="password"],
+input[type="Email"] {
+    width: 200px;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    border-radius: 50px;
+    
+}
+input[type="text"]{
+    margin-left: px;
+}
+input[type="Email"]{
+    margin-left: 32px;
+}
+input[type="password"]{
+    margin-left: 10px;
+}
+
+.container .input-field input:hover {
+    scale: 1.1;
+}
+
+.container #submit {
+    background-color: rgb(32, 134, 229);
+    border: 3px solid rgb(32, 134, 229);
+    border-radius: 30px;
+    font-weight: bold;
+    padding: 10px 25px;
+    margin-top: 40px;
+    margin-left: 180px;
+    transition: 0.3s;
+}
+
+.input-field h4 {
+    margin-left: 50px;
+}
+
+
+.container #submit:hover {
+    scale: 1.08;
+
+}
