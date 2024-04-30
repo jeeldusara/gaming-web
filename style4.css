@@ -6,7 +6,7 @@ body {
 
 .container {
     height: 775px;
-    background: url(../images/b.jpg);
+    background: url(images/b.jpg);
     background-size: cover;
 
 }
