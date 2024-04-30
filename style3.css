@@ -5,7 +5,7 @@ body {
 }
 
 .container {
-    background: url(../images/b.jpg);
+    background: url(images/b.jpg);
     height: 775px;
     background-size: cover;
 
@@ -60,7 +60,7 @@ h1 {
 .feedback {
     width: 200px;
     height: 300px;
-    background: url(../images/feedback.jpg);
+    background: url(images/feedback.jpg);
     background-position: center;
     background-size: cover;
 
@@ -82,7 +82,7 @@ h1 {
 }
 
 .f-img-2 {
-    background: url(../images/image9.jpg);
+    background: url(images/image9.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -90,7 +90,7 @@ h1 {
 .feedback-img-3 {
     width: 200px;
     height: 300px;
-    background: url(../images/feedback.jpg);
+    background: url(images/feedback.jpg);
     background-position: center;
     background-size: cover;
 
